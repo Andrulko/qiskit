@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qiks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-13 16:11+0000\n"
+"PO-Revision-Date: 2019-09-13 20:42\n"
+"Last-Translator: Crowdin Success Team (Crowdin-Support)\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: qiks\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /poBranch/docs/locale/en/LC_MESSAGES/apidoc/ignis/mitigation/mitigation.po\n"
+"Language: fr_FR\n"
+
+#: ../../apidoc/ignis/mitigation/mitigation.rst:5
+msgid "qiskit.ignis.mitigation"
+msgstr ""
+
+#: ../../apidoc/ignis/mitigation/mitigation.rst:18
+msgid "Submodules"
+msgstr ""
+
