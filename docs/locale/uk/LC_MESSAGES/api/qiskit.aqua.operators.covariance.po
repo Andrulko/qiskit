@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qiks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-13 16:11+0000\n"
+"PO-Revision-Date: 2019-09-18 09:43\n"
+"Last-Translator: Crowdin Success Team (Crowdin-Support)\n"
+"Language-Team: Ukrainian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: qiks\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /poBranch/docs/locale/en/LC_MESSAGES/api/qiskit.aqua.operators.covariance.po\n"
+"Language: uk_UA\n"
+
+#: ../../api/qiskit.aqua.operators.covariance.rst:2
+msgid "covariance"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:1
+msgid "Compute the covariance matrix element between two Paulis, given the measurement outcome. Appropriate post-rotations on the state are assumed."
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance
+msgid "Parameters"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:5
+msgid "a dictionary of the form data = {'00000': 10} ({str:int})"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:7 qiskit.aqua.operators.covariance:9
+msgid "a Pauli class member"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:11
+msgid "expectation value of pauli_1 on `data`"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:13
+msgid "expectation value of pauli_2 on `data`"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance
+msgid "Returns"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance:16
+msgid "the element of the covariance matrix between two Paulis"
+msgstr ""
+
+#: of qiskit.aqua.operators.covariance
+msgid "Return type"
+msgstr ""
+
